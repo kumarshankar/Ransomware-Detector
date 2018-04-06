@@ -1,0 +1,12 @@
+Total number of features: 5
+The dataset is of the form: instructions,cache-references,cache-misses,branches,branch-misses
+
+There are three files.
+regular.txt    - measurement of normal system behavior.
+ransomware.txt - measurement of normal system behavior with ransomware working in the background.
+spec.txt       - measurement of normal system behavior when a computational heavy program is running in the background which is not ransomware.
+
+NOTE:
+1. If you are interested in how these data are collected, please go through: https://perf.wiki.kernel.org/index.php/Tutorial (Not required for the project. Just for your interest.)
+2. A very naive work based on the above dataset can be found at: https://arxiv.org/pdf/1802.03909.pdf (Not mandatory. For your reference.)
+3. The dataset is not openly available still, and our team is currently working on it. So, I request you to not to distribute outside this project work.
