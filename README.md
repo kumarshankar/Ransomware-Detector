@@ -1,4 +1,4 @@
 # FADML-Project
-ransomware detection using deep learning
-This project aims at detecting ransomware using anomaly detection techniques
+Ransomware detection using deep learning
+This project aims at detecting ransomware using LSTM
 
