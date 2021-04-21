@@ -12,7 +12,7 @@ Total number of features: 5
 The dataset is of the form: instructions,cache-references,cache-misses,branches,branch-misses
 
 The dataset is obtained from three sources.
-regular sysntes    - measurement of normal system behavior.
+regular systems    - measurement of normal system behavior.
 ransomware affected systems - measurement of normal system behavior with ransomware working in the background.
 special heavy compute systems - measurement of normal system behavior when a computational heavy program is running in the background which is not ransomware.
 
