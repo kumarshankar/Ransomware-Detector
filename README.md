@@ -1,5 +1,5 @@
 # Ransomware Detector
-This is a simple deeplearning based classifier that detects wannacry ransomware attack from hardware performance counters
+This is a Bidirectional LSTM based classifier that detects wannacry ransomware attack from hardware performance counters
 
 ## Overview
 Ransomware detection using deep learning
